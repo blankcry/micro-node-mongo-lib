@@ -6,7 +6,7 @@ Developing a NodeJs Microservices Architecture, most of the time, you need to do
 <br/>
 This library will help you with the MongDB connection setup, for instance to use it for logging or to setup a service registry.
 <br/>
-# How to setup
+# How to install
 The library is depending of mongose lib, so it is required to setup thought npm:
 <br>
 <b>sudo npm install</b>

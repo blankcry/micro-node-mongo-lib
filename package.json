@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git@github.com:alchimya/micro-node-mongo-lib.git"
   },
+  "private": true,
   "dependencies": {
-      "mongoose":"^4.4.19"
-    },
-  "private": true
+    "mongoose": "^6.7.3"
+  }
 }
